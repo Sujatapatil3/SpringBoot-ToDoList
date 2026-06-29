@@ -79,8 +79,6 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
 
-> **Note:** Never upload your actual database username or password to GitHub.
-
 ---
 
 ## ▶️ How to Run the Project
@@ -91,12 +89,6 @@ spring.jpa.show-sql=true
 4. Update `application.properties` with your own database credentials.
 5. Run `ToDoListApplication.java`.
 6. Open your browser and visit:
-
-```text
-http://localhost:8080
-```
-
----
 
 ## 👩‍💻 Author
 
